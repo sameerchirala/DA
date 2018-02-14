@@ -1,0 +1,47 @@
+﻿/* Place custom styles below */
+div#s4-titlerow {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    display: none !important;
+}
+
+div#s4-workspace {
+    background-color: #392338;
+    color: #fff;
+}
+
+div#suiteBar {
+    display: none;
+}
+
+div#contentRow {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+div#globalNavBox {
+    display: none;
+}
+
+div#contentBox {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#siteIcon {
+    display: none;
+}
+
+#DeltaPlaceHolderSiteName {
+    display: none;
+}
+
+.container, .container-fluid {
+    min-height: 100vh;
+    height: 100vh;
+    
+}
+
+.hide{
+    display:none;
+}
